@@ -28,9 +28,9 @@ cd Subdomainscanner
 python subdoscanner.py
 
 # Windows User
-pip install -r bahan.txt
-
 git clone https://github.com/dzakialthalsyah/Subdomainscanner.git
+
+pip install -r bahan.txt
 
 cd Subdomainscanner
 
