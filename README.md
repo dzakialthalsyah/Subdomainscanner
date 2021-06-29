@@ -4,8 +4,6 @@ Subdomain Scanner
 # Linux User
 apt install python
 
-apt install pip
-
 apt install git
 
 pip install -r bahan.txt
@@ -18,8 +16,6 @@ python subdoscanner.py
 
 # Termux User
 pkg install python
-
-pkg install pip
 
 pkg install git
 
