@@ -10,7 +10,7 @@ import requests
 # function untuk scanning subdomain
 def subscanner(scan_nama_domain, scan_nama_subdomain):
 
-    print("---------------- Hasil Scan ----------------")
+    print("\n\n\n---------------- Hasil Scan ----------------")
 
     # looping untuk mendapatkan url
     for subdomain in scan_nama_subdomain:
