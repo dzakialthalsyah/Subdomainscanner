@@ -8,6 +8,8 @@ apt install pip
 
 apt install git
 
+pip install requests
+
 pip install pyfiglet
 
 pip install termcolor
@@ -25,7 +27,9 @@ pkg install pip
 
 pkg install git
 
-pkg install pyfiglet
+pip install requests
+
+pip install pyfiglet
 
 pip install termcolor
 
@@ -36,6 +40,8 @@ cd Subdomainscanner
 python subdoscanner.py
 
 # Windows User
+pip install requests
+
 pip install pyfiglet
 
 pip install termcolor
