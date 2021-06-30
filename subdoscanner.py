@@ -38,7 +38,7 @@ if __name__ == "__main__":
     nama_dom = input("Masukkan Domain: ")
 
     # membuka nama list file subdomain nya
-    with open("listdomain.txt","r") as file:
+    with open("listdomain.ini","r") as file:
 
         # membaca file nya
         baca = file.read()
