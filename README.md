@@ -6,11 +6,11 @@ apt install python
 
 apt install git
 
-pip install -r bahan.txt
-
 git clone https://github.com/dzakialthalsyah/Subdomainscanner.git
 
 cd Subdomainscanner
+
+pip install -r bahan.txt
 
 python subdoscanner.py
 
@@ -19,20 +19,20 @@ pkg install python
 
 pkg install git
 
-pip install -r bahan.txt
-
 git clone https://github.com/dzakialthalsyah/Subdomainscanner.git
 
 cd Subdomainscanner
+
+pip install -r bahan.txt
 
 python subdoscanner.py
 
 # Windows User
 git clone https://github.com/dzakialthalsyah/Subdomainscanner.git
 
-pip install -r bahan.txt
-
 cd Subdomainscanner
+
+pip install -r bahan.txt
 
 python subdoscanner.py
 
